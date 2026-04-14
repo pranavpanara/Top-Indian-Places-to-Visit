@@ -44,7 +44,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-(Add screenshot here after uploading)
+![Dashboard](Main.png)
 
 ## 📂 Files Included
 
@@ -58,4 +58,3 @@ This dashboard helps travelers and tourism planners make informed decisions by i
 ## 👤 Author
 
 Pranav Panara
-![Dashboard](Main.png)
